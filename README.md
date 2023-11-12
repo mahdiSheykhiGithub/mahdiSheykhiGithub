@@ -6,7 +6,9 @@
 
 📫 How to reach me : mahdisheykhi1995@gmail.com
 
-tel : https://t.me/MahdiSheykhi
+telegram : https://t.me/MahdiSheykhi
+
+tel : +989104301337
 
 <!--
 **mahdiSheykhiGithub/mahdiSheykhiGithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
